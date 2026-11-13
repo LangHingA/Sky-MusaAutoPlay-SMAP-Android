@@ -74,6 +74,6 @@ SMAP 使用 JSON 曲谱格式，示例：
 
 本项目采用 [GNU General Public License v3.0](LICENSE)。隐私说明见 [`PRIVACY_POLICY.md`](PRIVACY_POLICY.md)，第三方组件说明见 [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md)。
 
-项目作者：LingYunALingYun
+项目作者：LANGHINGA
 
 欢迎提交 Issue 和 Pull Request。
