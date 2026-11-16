@@ -614,16 +614,16 @@ fun MainScreen(onGameModeChange: (Boolean) -> Unit = {}) {
                             Toast.makeText(context, tr("所有音色的音高已恢复默认"), Toast.LENGTH_SHORT).show()
                         },
                         onCheckUpdate = {
-                            context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/lingyunalingyun/Sky-MusaAutoPlay-SMAP-Android/releases/latest")))
+                            context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/langhinga/Sky-MusaAutoPlay-SMAP-Android/releases/latest")))
                         },
                         onRepository = {
-                            context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/lingyunalingyun/Sky-MusaAutoPlay-SMAP-Android")))
+                            context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/langhinga/Sky-MusaAutoPlay-SMAP-Android")))
                         },
                         onLicense = {
                             context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://www.gnu.org/licenses/gpl-3.0.html")))
                         },
                         onPrivacyPolicy = {
-                            context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/lingyunalingyun/Sky-MusaAutoPlay-SMAP-Android/blob/main/PRIVACY_POLICY.md")))
+                            context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/langhinga/Sky-MusaAutoPlay-SMAP-Android/blob/main/PRIVACY_POLICY.md")))
                         }
                     )
                 } else {
@@ -1217,7 +1217,7 @@ private fun SettingsPanel(
             Spacer(Modifier.height(9.dp))
             Text("${tr("Android 版本")}：v0.1.0", color = Color.White, fontSize = 12.sp)
             Spacer(Modifier.height(4.dp))
-            Text("${tr("软件作者")}：LingYunALingYun", color = Color.White, fontSize = 12.sp)
+            Text("${tr("软件作者")}：langhinga", color = Color.White, fontSize = 12.sp)
             Spacer(Modifier.height(9.dp))
             SettingsRow(tr("开源仓库"), tr("在浏览器中打开"), onClick = onRepository)
             Spacer(Modifier.height(6.dp))

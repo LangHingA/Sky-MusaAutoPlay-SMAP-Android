@@ -2,7 +2,7 @@
 
 Effective date: August 21, 2026
 
-SMAP (Sky-MusaAutoPlay) is an open-source Android application maintained by LingYunALingYun. This policy explains how the application handles information.
+SMAP (Sky-MusaAutoPlay) is an open-source Android application maintained by langhinga. This policy explains how the application handles information.
 
 ## Information stored on your device
 
@@ -36,7 +36,7 @@ lingyuna.ritsu@gmail.com
 
 For non-sensitive technical questions, you may also open an issue at:
 
-https://github.com/lingyunalingyun/Sky-MusaAutoPlay-SMAP-Android/issues
+https://github.com/langhinga/Sky-MusaAutoPlay-SMAP-Android/issues
 
 ---
 
@@ -44,7 +44,7 @@ https://github.com/lingyunalingyun/Sky-MusaAutoPlay-SMAP-Android/issues
 
 生效日期：2026 年 8 月 21 日
 
-SMAP（Sky-MusaAutoPlay）是由 LingYunALingYun 维护的开源 Android 应用。本政策说明应用如何处理信息。
+SMAP（Sky-MusaAutoPlay）是由 langhinga 维护的开源 Android 应用。本政策说明应用如何处理信息。
 
 ## 设备本地保存的信息
 
@@ -78,4 +78,4 @@ lingyuna.ritsu@gmail.com
 
 非敏感的普通技术问题也可以在以下页面提交 Issue：
 
-https://github.com/lingyunalingyun/Sky-MusaAutoPlay-SMAP-Android/issues
+https://github.com/langhinga/Sky-MusaAutoPlay-SMAP-Android/issues
